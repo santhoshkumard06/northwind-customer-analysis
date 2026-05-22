@@ -251,5 +251,5 @@ This is suitable for portfolio interview preparation and LinkedIn visibility
 
 Created May 2026  
 Database Northwind  
-Difficulty Intermediate-Advanced  
+Difficulty Intermediate Advanced  
 Status Production Ready  
