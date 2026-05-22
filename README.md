@@ -228,7 +228,7 @@ How many customers did we lose
 
 ---
 
-## Real-World Application
+## Real World Application
 
 These queries apply to  
 - Marketing for targeting high-value customers  
@@ -249,7 +249,7 @@ This is suitable for portfolio interview preparation and LinkedIn visibility
 
 ---
 
-Created April 2026  
+Created May 2026  
 Database Northwind  
 Difficulty Intermediate-Advanced  
 Status Production Ready  
